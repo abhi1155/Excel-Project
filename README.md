@@ -33,6 +33,7 @@ The objective of this project is to perform a comprehensive analysis of store sa
 - step 12 : we used pie chart to show sales based on gender
 - step 13 : To Get the data based on our requirement we created Slicers for Month, Channel & Category.
 
-# 
+# Report Snapshots
+
   
   
