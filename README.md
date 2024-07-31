@@ -35,5 +35,15 @@ The objective of this project is to perform a comprehensive analysis of store sa
 
 # Report Snapshots
 
+<img width="694" alt="Screenshot 2024-07-31 095827" src="https://github.com/user-attachments/assets/bcc182d8-e8b8-479c-976f-efb38741e847">
+
+# Conclusion & Insights
+1) Women are more likely to buy compared to men (~65%)
+2) Maharashtra, Karnataka and Uttar Pradesh are the top 3
+3) Adult age group (30-49 yrs) is max contributing (~50%)
+4) Amazon, Flipkart and Myntra channels are max contributors.
+
+Final Conclusion -- To improve Store sales: Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+
 
   
