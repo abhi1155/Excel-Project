@@ -35,5 +35,5 @@ The objective of this project is to perform a comprehensive analysis of store sa
 
 # Report Snapshots
 
-  
+
   
