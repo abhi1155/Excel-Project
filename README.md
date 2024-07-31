@@ -1,7 +1,7 @@
 # Store Sales Data Analysis Using Microsoft Excel
 
 
-
+### Note - For Data Refer Store Data Sheet from Excel file.
 # Problem Statement
 
 The objective of this project is to perform a comprehensive analysis of store sales data using Excel to identify trends and patterns in sales, understand customer behavior, and generate actionable insights for future decision-making. This involves leveraging pivot tables, slicers, and dynamic charts to transform and clean the data, ensuring it is accurate and ready for in-depth analysis. By examining monthly sales, order counts, sales distribution by gender, average orders across different age groups, order statuses, and orders received from various enterprise channels, the project aims to provide a data-driven foundation for strategic business planning and optimization.
